@@ -60,23 +60,12 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 
 
-<br>
-<br>
-
-## Cloud Machine #1 : Binder
-<br>
-
-&nbsp;&nbsp;&nbsp; Simply [click here].
-
-[Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2021/main
-
-
 
 
 <br>
 <br>
 
-## Cloud Machine #2 : Google Colab
+## Cloud Machine #1 : Google Colab
 <br>
 
 * Follow this Notebook installation :<br>
@@ -86,7 +75,25 @@ https://colab.research.google.com/github/xbresson/CE9010_2021/blob/master/colab/
 https://www.google.com/drive
 
 * Open in Google Drive Folder 'CE9010_2021' and go to Folder 'CE9010_2021/tutorials/'<br>
-Select the notebook 'file.ipynb' and open it with Google Colab using Control Click + Open With Colaboratory
+Select the notebook 'file.ipynb' and open it with Google Colab using Control Click + Open With Colaboratory.<br>
+
+   Notes: <br>
+      Use Google Chrome Navigator.<br>
+      The first time you open Colab, double-click on any 'file.ipynb'. Then select 'Connect more apps' and type Colab. 
+
+
+
+
+<br>
+<br>
+
+## Cloud Machine #2 : Binder
+<br>
+
+&nbsp;&nbsp;&nbsp; Simply [click here].
+
+[Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2021/main
+
 
 
 
