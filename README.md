@@ -3,18 +3,6 @@
 ## CE9010: Introduction to Data Analysis <br> Semester 2 2020/21 <br> Xavier Bresson
    
 
-<br>
-<br>
-
-## Running Python notebooks without local Python installation
-<br>
-
-&nbsp;&nbsp;&nbsp; Run the notebooks from the cloud using Binder: Simply [click here].
-
-[Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2021/master
-
-
-
 
 
 <br>
@@ -37,7 +25,6 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 
    Notes: <br>
-      Direct link to conda is `https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh` for Linux, `https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh` for MacOS and `https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe` for Windows. <br>
       The installed conda packages can be listed with `conda list`.<br>
       Some useful Conda commands are `pwd`, `cd`, `ls -al`, `rm -r -f folder/`<br>
       Add a python library to the Python environment: `conda install -n CE9010_2021 numpy` (for example)<br>
@@ -67,19 +54,46 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 
 	Notes: <br> 
-      Windows: Folder CE9010_2021 is located at `C:\Users\user_name\CE9010_2021`. MacOS, Linux: `/Users/user_name/CE9010_2021`.<br>
+      Windows: Folder CE9010_2021 is located at `C:\Users\your_user_name\CE9010_2021`. MacOS, Linux: `/Users/your_user_name/CE9010_2021`.<br>
       List of [git commands]<br>
 
+
+
+
+<br>
+<br>
+
+## Cloud Machine #1 : Binder
+<br>
+
+&nbsp;&nbsp;&nbsp; Simply [click here].
+
+[Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2021/main
+
+
+
+
+<br>
+<br>
+
+## Cloud Machine #2 : Google Colab
+<br>
+
+* Follow this Notebook installation :<br>
+https://colab.research.google.com/github/xbresson/CE9010_2021/blob/master/colab/installation.ipynb
+
+* Open your Google Drive :<br>
+https://www.google.com/drive
+
+* Open in Google Drive Folder 'CE9010_2021' and go to Folder 'CE9010_2021/tutorials/'<br>
+Select the notebook 'file.ipynb' and open it with Google Colab using Control Click + Open With Colaboratory
+
+
+
+
+
+
 [git commands]: git/git_commands.pdf
-
-
-
-
-
-
-
-
-
 [git]: https://git-scm.com
 [python]: https://www.python.org
 [scipy]: https://www.scipy.org
